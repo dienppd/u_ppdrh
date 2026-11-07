@@ -2,6 +2,26 @@
   "v": 2,
   "items": [
     {
+      "maWeb": 26110702,
+      "android": "2.0.116+196",
+      "ios": null,
+      "url": "https://github.com/dienppd/u_ppdrh/releases/download/r26110702/p.bin",
+      "sha256": "4ff5bf17aa0d3b242a21879970e1385bed8bba9ce64ad102d6c250055e7d0f62",
+      "sig": "nv0+RGMC+xfRUS11rVw8LU5IDkDcTQRlnOcWJlej5Q/4op2ROuntylaXUjP4EOXGXypl4p/ahz3obI3WeUR5Ynq6lCDLsdKLoBixY9ct3kg6VJ3SEKqPBC5VkeHfCmsAEueHb+d0cJ9beXxCgeIxnLHMhakvT5Is4m8ncEP/dKsF/7agzGP5T/rWnhGndHovXkehAxOFUzDHb+gTKlBBovpyU+ZqHUZnuVXGeOdSO1tdNQO/MdCIPBXjMWVKTaUIEOQ2xOZT8dkuo8uwgY/a/yyXScmrGUFkzsZZIEkZTMTwaJYGs1IIxzkLnhgcdxozPgTqNaBkUUHoLEuCOg2ldw==",
+      "batBuoc": false,
+      "ghiChu": "Cải thiện hiệu năng, sửa lỗi"
+    },
+    {
+      "maWeb": 26110702,
+      "android": null,
+      "ios": "2.0.116+196",
+      "url": "https://github.com/dienppd/u_ppdrh/releases/download/r26110702/p.bin",
+      "sha256": "4ff5bf17aa0d3b242a21879970e1385bed8bba9ce64ad102d6c250055e7d0f62",
+      "sig": "nv0+RGMC+xfRUS11rVw8LU5IDkDcTQRlnOcWJlej5Q/4op2ROuntylaXUjP4EOXGXypl4p/ahz3obI3WeUR5Ynq6lCDLsdKLoBixY9ct3kg6VJ3SEKqPBC5VkeHfCmsAEueHb+d0cJ9beXxCgeIxnLHMhakvT5Is4m8ncEP/dKsF/7agzGP5T/rWnhGndHovXkehAxOFUzDHb+gTKlBBovpyU+ZqHUZnuVXGeOdSO1tdNQO/MdCIPBXjMWVKTaUIEOQ2xOZT8dkuo8uwgY/a/yyXScmrGUFkzsZZIEkZTMTwaJYGs1IIxzkLnhgcdxozPgTqNaBkUUHoLEuCOg2ldw==",
+      "batBuoc": false,
+      "ghiChu": "Cải thiện hiệu năng, sửa lỗi"
+    },
+    {
       "maWeb": 26110701,
       "android": "2.0.116+196",
       "ios": null,
